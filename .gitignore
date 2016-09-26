@@ -1,1 +1,3 @@
 *.pyc
+.idea/
+rabbitmq-nagios-plugins.iml
